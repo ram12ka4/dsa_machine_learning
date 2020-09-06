@@ -6,7 +6,8 @@ This is my first blog to write about machine learning. One question that is bein
 This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
 
 ## What is Machine Learning?
-According to Ar
+According to Arther Samuel (1959)
+It is a field of study that gives computer the ability to learn without being explicitly programmed. 
 
 
 ## Create files and folders
@@ -144,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjE0MzQ1MSwtNDExNjEwOTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk1MDIxNDQsLTQxMTYxMDk1XX0=
 -->
