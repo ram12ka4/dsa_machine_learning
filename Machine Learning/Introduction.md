@@ -24,7 +24,10 @@ A machine or an agent or any non machines like biological agent or a computer pr
 	3. and the performance measure P will be the probability that wins the next game of checkers against some new opponent. 
 
 So, we can define machine learning in three letters i.e. Experience. Task. Performance.
-Where 
+
+E = Experience of playing checkers with itself.
+T = Task of playing checkers.
+P = Performance 
 
 
 
@@ -163,6 +166,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg0NTkwNzksLTE4MTM0NjEwMjEsMj
-A2NDExNzAyMSwtMTk4MTYxMTMyN119
+eyJoaXN0b3J5IjpbMTQwNzUxNjY5OCwtMTgxMzQ2MTAyMSwyMD
+Y0MTE3MDIxLC0xOTgxNjExMzI3XX0=
 -->
