@@ -1,5 +1,5 @@
 # Welcome to Machine Learning!
-Hi I am Ram, and I am a software engineer and working in healthcare domain. My aim is to define a system in a simple way that a novice can understand  it.  Once one scientist told until you make understand your exploration to a child in a simple way and if he/she understood then your learning ability would be better.  today I am going to explore the basics of machine learning concepts that i have walked through. This blog is about incremental post i.e. whatever I have learned from machine learning i will update this blog and i also will be trying to write in a simple language  so any one can understand. 
+Hi I am Ram, and I am a software engineer and working in healthcare domain. My aim is to define a system in a simple way that a novice can understand  it.  Once one scientist told until you make understand your exploration to a child in a simple way and if he/she understood then your learning ability would be better.  today I am going to explore the basics of machine learning concepts that i have walked through. This blog is about incremental post i.e. whatever I am going to learn from machine learning i will keep update this blog and i also will be trying to write in a simple English language  so any one can understand. 
 
 This is my first blog to write about machine learning. One question that is being popped up in my mind Why I have chosen this topic. I might have chosen simple one.
 
@@ -149,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjA0NzI1OCwtNDExNjEwOTVdfQ==
+eyJoaXN0b3J5IjpbNjc2NDI3NzcsLTQxMTYxMDk1XX0=
 -->
