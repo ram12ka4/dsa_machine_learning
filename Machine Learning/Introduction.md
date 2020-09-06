@@ -23,6 +23,8 @@ A machine or an agent or any non machines like biological agent or a computer pr
 	2. The task T would be the task of playing checkers, 
 	3. and the performance measure P will be the probability that wins the next game of checkers against some new opponent. 
 
+So, we can define machine learning in 
+
 
 ## Create files and folders
 
@@ -159,6 +161,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0NjEwMjEsMjA2NDExNzAyMSwtMT
-k4MTYxMTMyN119
+eyJoaXN0b3J5IjpbMjE5MjAwNjg0LC0xODEzNDYxMDIxLDIwNj
+QxMTcwMjEsLTE5ODE2MTEzMjddfQ==
 -->
