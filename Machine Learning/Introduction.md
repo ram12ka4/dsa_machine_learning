@@ -13,10 +13,7 @@ It is a field of study that gives computer the ability to learn without being ex
 
 ##### Transform Reality into Machine learning
 Samuel's claim to fame was that back in the 1950, when he wrote a checkers playing program and the amazing thing about this checkers playing program
-was that Arthur Samuel himself wasn't a very good checkers player. But what he did was he had programmed  tens of thousands of games against himself, and by watching what sorts of board positions tended to lead to wins and what sort of board positions tended to lead to losses, the checkers playing program learned over time what are good board positions and what are board bad positions. And eventually learn to play checkers 
-better than the Arthur Samuel himself was able to. This was a remarkable result. Arthur Samuel himself turns out not to be a very good checkers player.
-But because a computer has the patience to play tens of thousands of games against itself, no human has the patience to play that many games.
-By doing this, a computer was able to get so much checkers playing experience that it eventually became a better checkers player than Arthur himself.  
+was that Arthur Samuel himself wasn't a very good checkers player. But what he did was he had programmed  tens of thousands of games against himself, and by watching what sorts of board positions tended to lead to wins and what sort of board positions tended to lead to losses, the checkers playing program learned over time what are good board positions and what are bad board positions. And eventually learn to play checkers better than the Arthur Samuel himself. This was a remarkable result. Arthur Samuel himself turns out not to be a very good checkers player. But because a computer has the patience to play tens of thousands of games against itself, no human has the patience to play that many games. By doing this, a computer was able to get so much checkers playing experience that it eventually became a better checkers player than Arthur himself.  
 
 ### According to Tom Mitchell (1997/98)
 A machine or an agent or any non machines like biological agent or a computer program is said to learn from experience E with respect to some class of tasks T with some performance measure P, if the learners performance on tasks T in that class, as measured by P, improves with experience E. 
@@ -157,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQ3NjcyNSwtMTk4MTYxMTMyN119
+eyJoaXN0b3J5IjpbMjA2NDExNzAyMSwtMTk4MTYxMTMyN119
 -->
