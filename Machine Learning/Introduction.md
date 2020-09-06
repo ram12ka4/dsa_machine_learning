@@ -36,7 +36,7 @@ Supervised learning and Unsupervised learning.
 ### Supervised Learning
 Here we are going to teach the computer how to do something.
 ### Unsupervised Learning
-
+Here we are going to let the computer to learn by itself.
 
 
 
@@ -175,7 +175,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDk4MzExMSwxMjA2NDY2NDE0LC0xNj
-E5ODAwNjg5LC0xODEzNDYxMDIxLDIwNjQxMTcwMjEsLTE5ODE2
-MTEzMjddfQ==
+eyJoaXN0b3J5IjpbLTEwMTA4NDg2MjAsMTIwNjQ2NjQxNCwtMT
+YxOTgwMDY4OSwtMTgxMzQ2MTAyMSwyMDY0MTE3MDIxLC0xOTgx
+NjExMzI3XX0=
 -->
