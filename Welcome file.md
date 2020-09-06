@@ -5,8 +5,8 @@ This is my first blog to write about machine learning. One question that is bein
 
 This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
 
-# What is Machine Learning?
-
+## What is Machine Learning?
+According to Ar
 
 
 ## Create files and folders
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDgyMTQxNCwtNDExNjEwOTVdfQ==
+eyJoaXN0b3J5IjpbMjA3NjE0MzQ1MSwtNDExNjEwOTVdfQ==
 -->
