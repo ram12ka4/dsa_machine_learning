@@ -10,7 +10,9 @@ This topic covers basic  data structure and algorithm.  That I am going to cover
 ### According to Arther Samuel (1959)
 It is a field of study that gives computer the ability to learn without being explicitly programmed. 
 
-### According to Tom 
+### According to Tom Mitchell (1997/98)
+A machine or an agent or any non machines like biological agent or a computer programm is said to learn from experience E with respect to some class of tasks T and some performance measure P, if the learners performance on tasks T in that class, as measured by P, improves with experience E. 
+
 
 ## Create files and folders
 
@@ -147,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODM2NjczOSwtNDExNjEwOTVdfQ==
+eyJoaXN0b3J5IjpbNDQxNjg0MTgwLC00MTE2MTA5NV19
 -->
