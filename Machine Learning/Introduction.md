@@ -18,8 +18,7 @@ was that Arthur Samuel himself wasn't a very good checkers player. But what he d
 ### According to Tom Mitchell (1997/98)
 A machine or an agent or any non machines like biological agent or a computer program is said to learn from experience E with respect to some class of tasks T with some performance measure P, if the learners performance on tasks T in that class, as measured by P, improves with experience E. 
 
-For the checkers playing examples
-
+##### For the checkers playing examples
 	1. The experience E would be the experience of having the program play tens of thousands of games itself.
 	2. The task T would be the task of playing checkers, 
 	3. and the performance measure P will be the probability that wins the next game of checkers against some new opponent. 
@@ -160,6 +159,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE5Mzc0MiwyMDY0MTE3MDIxLC0xOT
-gxNjExMzI3XX0=
+eyJoaXN0b3J5IjpbLTE4MTM0NjEwMjEsMjA2NDExNzAyMSwtMT
+k4MTYxMTMyN119
 -->
