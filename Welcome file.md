@@ -3,7 +3,7 @@ Hi I am Ram, and I am a software engineer and working in healthcare domain. My a
 
 This is my first blog to write about machine learning. One question that is being popped up in my mind Why I have chosen this topic. I might have chosen simple one.
 
-This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
+This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us deep dive into the topic without wasting your time.
 
 ## What is Machine Learning?
 
@@ -11,7 +11,7 @@ This topic covers basic  data structure and algorithm.  That I am going to cover
 It is a field of study that gives computer the ability to learn without being explicitly programmed. 
 
 ### According to Tom Mitchell (1997/98)
-A machine or an agent or any non machines like biological agent or a computer program is said to learn from experience E with respect to some class of tasks T and some performance measure P, if the learners performance on tasks T in that class, as measured by P, improves with experience E. 
+A machine or an agent or any non machines like biological agent or a computer program is said to learn from experience E with respect to some class of tasks T with some performance measure P, if the learners performance on tasks T in that class, as measured by P, improves with experience E. 
 
 
 ## Create files and folders
@@ -149,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NDI3NzcsLTQxMTYxMDk1XX0=
+eyJoaXN0b3J5IjpbMjAzMTMzNjYyMywtNDExNjEwOTVdfQ==
 -->
