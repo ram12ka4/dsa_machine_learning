@@ -29,6 +29,10 @@ E = Experience of playing many games of checkers with itself or opponent.
 T = Task of playing checkers.
 P = Probability of winning or loosing checkers game.
 
+In general, any machine learning problem can be assigned to one of two broad classifications:
+
+Supervised learning and Unsupervised learning.
+
 
 
 ## Create files and folders
@@ -166,6 +170,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk4MDA2ODksLTE4MTM0NjEwMjEsMj
-A2NDExNzAyMSwtMTk4MTYxMTMyN119
+eyJoaXN0b3J5IjpbMTIwNjQ2NjQxNCwtMTYxOTgwMDY4OSwtMT
+gxMzQ2MTAyMSwyMDY0MTE3MDIxLC0xOTgxNjExMzI3XX0=
 -->
