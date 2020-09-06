@@ -25,9 +25,9 @@ A machine or an agent or any non machines like biological agent or a computer pr
 
 So, we can define machine learning in three letters i.e. Experience. Task. Performance.
 
-E = Experience of playing checkers with itself.
+E = Experience of playing many games of checkers with itself or opponent.
 T = Task of playing checkers.
-P = Performance 
+P = Probability of winning or loosing checkers game.
 
 
 
@@ -166,6 +166,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzUxNjY5OCwtMTgxMzQ2MTAyMSwyMD
+eyJoaXN0b3J5IjpbMTA2MDI2OTk0NywtMTgxMzQ2MTAyMSwyMD
 Y0MTE3MDIxLC0xOTgxNjExMzI3XX0=
 -->
