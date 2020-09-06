@@ -33,6 +33,9 @@ In general, any machine learning problem can be assigned to one of two broad cla
 
 Supervised learning and Unsupervised learning.
 
+### Supervised Learning
+Here we are going to teach the computer how to do something.
+### Unsupervised Learning
 
 
 
@@ -172,7 +175,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzODE5MDYsMTIwNjQ2NjQxNCwtMTYxOT
-gwMDY4OSwtMTgxMzQ2MTAyMSwyMDY0MTE3MDIxLC0xOTgxNjEx
-MzI3XX0=
+eyJoaXN0b3J5IjpbLTQ5NDk4MzExMSwxMjA2NDY2NDE0LC0xNj
+E5ODAwNjg5LC0xODEzNDYxMDIxLDIwNjQxMTcwMjEsLTE5ODE2
+MTEzMjddfQ==
 -->
