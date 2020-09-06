@@ -5,9 +5,9 @@ This is my first blog to write about machine learning. One question that is bein
 
 This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
 
-# Files
+# What is Machine Learning?
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
 
 ## Create files and folders
 
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE3MzAyMDYsLTQxMTYxMDk1XX0=
+eyJoaXN0b3J5IjpbMTk3NDgyMTQxNCwtNDExNjEwOTVdfQ==
 -->
