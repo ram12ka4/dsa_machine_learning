@@ -3,7 +3,7 @@ Hi I am Ram, and I am a software engineer and working in healthcare domain. My a
 
 This is my first blog to write about machine learning. One question that is being popped up in my mind Why I have chosen this topic. I might have chosen simple one.
 
-This topic covers basic  data structure and algorithm related topics.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
+This topic covers basic  data structure and algorithm.  That I am going to cover. So, let us dive deep into the topic without wasting our time.
 
 # Files
 
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTYxMDk1XX0=
+eyJoaXN0b3J5IjpbLTIxNDE3MzAyMDYsLTQxMTYxMDk1XX0=
 -->
