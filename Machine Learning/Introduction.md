@@ -38,6 +38,8 @@ Here we are going to teach the computer how to do something.
 ### Unsupervised Learning
 Here we are going to let the computer to learn by itself.
 #### Regression Problem 
+Predict real-valued output
+#### Continuous 
 
 
 
@@ -176,7 +178,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEzMjE4OSwtMTUyMTU0MzA4NywtMT
-AxMDg0ODYyMCwxMjA2NDY2NDE0LC0xNjE5ODAwNjg5LC0xODEz
-NDYxMDIxLDIwNjQxMTcwMjEsLTE5ODE2MTEzMjddfQ==
+eyJoaXN0b3J5IjpbLTc3MzgyNDAwMiwtMTk3MTMyMTg5LC0xNT
+IxNTQzMDg3LC0xMDEwODQ4NjIwLDEyMDY0NjY0MTQsLTE2MTk4
+MDA2ODksLTE4MTM0NjEwMjEsMjA2NDExNzAyMSwtMTk4MTYxMT
+MyN119
 -->
