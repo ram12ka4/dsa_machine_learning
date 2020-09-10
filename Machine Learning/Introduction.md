@@ -38,7 +38,7 @@ Here we are going to teach the computer how to do something.
 ### Unsupervised Learning
 Here we are going to let the computer to learn by itself.
 #### Regression Problem 
-It refers to the fact that we are predicting a real-valued output. namely the price. And 
+It refers to the fact that we are predicting a real-valued output. namely the price. And just to remind you the o
 #### Continuous 
 
 
@@ -178,8 +178,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjk0NTYwMywtMTk3MTMyMTg5LC0xNT
-IxNTQzMDg3LC0xMDEwODQ4NjIwLDEyMDY0NjY0MTQsLTE2MTk4
-MDA2ODksLTE4MTM0NjEwMjEsMjA2NDExNzAyMSwtMTk4MTYxMT
-MyN119
+eyJoaXN0b3J5IjpbLTIwNTI3MDEzODQsLTE5NzEzMjE4OSwtMT
+UyMTU0MzA4NywtMTAxMDg0ODYyMCwxMjA2NDY2NDE0LC0xNjE5
+ODAwNjg5LC0xODEzNDYxMDIxLDIwNjQxMTcwMjEsLTE5ODE2MT
+EzMjddfQ==
 -->
