@@ -37,6 +37,7 @@ Supervised learning and Unsupervised learning.
 Here we are going to teach the computer how to do something.
 ### Unsupervised Learning
 Here we are going to let the computer to learn by itself.
+#### Regression Problem 
 
 
 
@@ -175,7 +176,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE1NDMwODcsLTEwMTA4NDg2MjAsMT
-IwNjQ2NjQxNCwtMTYxOTgwMDY4OSwtMTgxMzQ2MTAyMSwyMDY0
-MTE3MDIxLC0xOTgxNjExMzI3XX0=
+eyJoaXN0b3J5IjpbLTE5NzEzMjE4OSwtMTUyMTU0MzA4NywtMT
+AxMDg0ODYyMCwxMjA2NDY2NDE0LC0xNjE5ODAwNjg5LC0xODEz
+NDYxMDIxLDIwNjQxMTcwMjEsLTE5ODE2MTEzMjddfQ==
 -->
