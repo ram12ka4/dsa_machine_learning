@@ -38,7 +38,7 @@ Here we are going to teach the computer how to do something.
 #### Regression Problem 
 It refers to the fact that we are predicting a real-valued output. namely the price.
 #### Classification Problem
-where we predict discrete-valued outputs if we are looking at cancer tumors and trying to decide if a tumor is malignant or benign. So that is a zero-one valued discrete output. More  
+where we predict discrete-valued outputs if we are looking at cancer tumors and trying to decide if a tumor is malignant or benign. So that is a zero-one valued discrete output.
 
 ### Unsupervised Learning
 Here we are going to let the computer to learn by itself.
@@ -182,7 +182,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk2MzQ5MzAsLTc4NTUyMTg0MywtMT
+eyJoaXN0b3J5IjpbLTEyMDIxNjk3MzUsLTc4NTUyMTg0MywtMT
 k3MTMyMTg5LC0xNTIxNTQzMDg3LC0xMDEwODQ4NjIwLDEyMDY0
 NjY0MTQsLTE2MTk4MDA2ODksLTE4MTM0NjEwMjEsMjA2NDExNz
 AyMSwtMTk4MTYxMTMyN119
