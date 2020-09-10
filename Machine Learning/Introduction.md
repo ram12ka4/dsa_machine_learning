@@ -37,7 +37,7 @@ Supervised learning and Unsupervised learning.
 Here we are going to teach the computer how to do something.
 #### Regression Problem 
 It refers to the fact that we are predicting a real-valued output. namely the price.
-#### Continuous Problem
+#### Classification Problem
 
 
 ### Unsupervised Learning
@@ -182,8 +182,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTUyMTg0MywtMTk3MTMyMTg5LC0xNT
-IxNTQzMDg3LC0xMDEwODQ4NjIwLDEyMDY0NjY0MTQsLTE2MTk4
-MDA2ODksLTE4MTM0NjEwMjEsMjA2NDExNzAyMSwtMTk4MTYxMT
-MyN119
+eyJoaXN0b3J5IjpbLTEwODk3NzUwODIsLTc4NTUyMTg0MywtMT
+k3MTMyMTg5LC0xNTIxNTQzMDg3LC0xMDEwODQ4NjIwLDEyMDY0
+NjY0MTQsLTE2MTk4MDA2ODksLTE4MTM0NjEwMjEsMjA2NDExNz
+AyMSwtMTk4MTYxMTMyN119
 -->
