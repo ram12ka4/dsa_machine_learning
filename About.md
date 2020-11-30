@@ -1,6 +1,6 @@
 # Hello! I am Ram
 
-Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years. I developed my first web application on java and j2ee. But over the year I started loosing interest on java because most my task   
+Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years. I developed my first web application on java and j2ee. But over the year I started loosing interest on java because most of the time I    
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mjk5MDUyNF19
+eyJoaXN0b3J5IjpbOTI2MTQ4ODc3XX0=
 -->
