@@ -2,6 +2,7 @@
 
 Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for last 7 years. 
 
+How I started my journey 
 
 
 
@@ -146,6 +147,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY2ODQzNTAsLTE5NDI2NDIwMzYsMT
-gxNjg1NTQ3MiwtOTgxMTg0NDQzXX0=
+eyJoaXN0b3J5IjpbMTMxMzk1OTE3MCwtMTU0NjY4NDM1MCwtMT
+k0MjY0MjAzNiwxODE2ODU1NDcyLC05ODExODQ0NDNdfQ==
 -->
