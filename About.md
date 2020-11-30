@@ -1,6 +1,6 @@
 # Hello! I am Ram
 
-Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years. I developed my first web application on java and j2ee. But over the year I started loosing interest on java because most of the time I    
+Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years. I developed my first web application on java and j2ee. But over the year I started loosing interest on java because of   boiller pte code 
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MTQ4ODc3XX0=
+eyJoaXN0b3J5IjpbMzAzNDY1NzZdfQ==
 -->
