@@ -2,7 +2,7 @@
 
 Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years.
 
-I developed   
+I developed my first web application on java and j2ee. But later on I realized  
 
 
 # Files
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIyNzgyMDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNzAzNzYxMzZdfQ==
 -->
