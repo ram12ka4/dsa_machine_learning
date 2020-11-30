@@ -1,6 +1,7 @@
 # Hello! I am Ram
 
-Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for last 7 years. I developed my first **no no** more than one web application on java and j2ee at my early stage. But over the year I started loosing interest on java because of boiler plate code that takes one task to complete more time than javascript.
+Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for last 7 years. 
+
 
 
 # Files
@@ -142,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzU4MjMxNywxODE2ODU1NDcyLC05OD
-ExODQ0NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDI2NDIwMzYsMTgxNjg1NTQ3MiwtOT
+gxMTg0NDQzXX0=
 -->
