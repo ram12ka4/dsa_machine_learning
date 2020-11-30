@@ -2,7 +2,7 @@
 
 Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years.
 
-I developed my first web application on java and j2ee. But later on I realized  
+I developed my first web application on java and j2ee. But over the year I started loosing interest on java because most my task   
 
 
 # Files
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAzNzYxMzZdfQ==
+eyJoaXN0b3J5IjpbMjI0NjAyOTI4XX0=
 -->
