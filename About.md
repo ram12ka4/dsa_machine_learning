@@ -1,6 +1,8 @@
 # Hello! I am Ram
 
-Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web base application  
+Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for 7 years.
+
+I developed   
 
 
 # Files
@@ -142,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk3MzgwODFdfQ==
+eyJoaXN0b3J5IjpbLTE1MDIyNzgyMDNdfQ==
 -->
