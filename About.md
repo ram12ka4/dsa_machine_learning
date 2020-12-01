@@ -1,8 +1,8 @@
 # Hello! I am Ram
+Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for last couple of years. Truly speaking, I consider myself a beginner as I am fond of learning new topic everyday to improve my skill. As we already know there is no end of learning. Learning makes us confidence and helps us to think differently.
 
-Welcome to my little blog that connects millions of people all over the world. I have been designing and developing web application for last 7 years. 
+## A Little story of how I started my journey.
 
-## Little story of how I started my journey.
 I 
 
  
@@ -150,6 +150,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ2OTE0NTcsLTE1NDY2ODQzNTAsLT
-E5NDI2NDIwMzYsMTgxNjg1NTQ3MiwtOTgxMTg0NDQzXX0=
+eyJoaXN0b3J5IjpbLTY4NTM3NzI4NywtMjA3NDY5MTQ1NywtMT
+U0NjY4NDM1MCwtMTk0MjY0MjAzNiwxODE2ODU1NDcyLC05ODEx
+ODQ0NDNdfQ==
 -->
