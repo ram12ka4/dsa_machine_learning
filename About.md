@@ -3,7 +3,14 @@ Welcome to my little blog that connects millions of people all over the world. I
 
 ## A Little story of how I started my journey.
 
-I 
+> Firstly, I was very curious about web technology and how this kept
+> changing over the past few years that fascinated me to deep dived into
+> the world of web pool. So, I started my journey with java, j2ee and
+> its related framework and developed couple of applications. As I
+> started familiar with more tools of web application and their
+> usage. So, I decided to go with javascript because of completion of two
+> task i.e. application and server side using one language rather than
+> using java because of boiler plate code.
 
  
 
@@ -150,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTM3NzI4NywtMjA3NDY5MTQ1NywtMT
-U0NjY4NDM1MCwtMTk0MjY0MjAzNiwxODE2ODU1NDcyLC05ODEx
-ODQ0NDNdfQ==
+eyJoaXN0b3J5IjpbMzU5NzE5NTI1LC0yMDc0NjkxNDU3LC0xNT
+Q2Njg0MzUwLC0xOTQyNjQyMDM2LDE4MTY4NTU0NzIsLTk4MTE4
+NDQ0M119
 -->
